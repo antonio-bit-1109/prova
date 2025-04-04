@@ -8,9 +8,7 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
   constructor() {
-    console.log('Ciao');
-    console.log('Ciao');
-    console.log('Ciao');
+    this.stampaMessaggio();
   }
 
   stampaMessaggio() {
