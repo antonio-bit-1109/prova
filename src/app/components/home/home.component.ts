@@ -12,4 +12,5 @@ export class HomeComponent {
     console.log('Ciao');
     console.log('Ciao');
   }
+    console.log('Prova commit');
 }
