@@ -12,5 +12,8 @@ export class HomeComponent {
     console.log('Ciao');
     console.log('Ciao');
   }
+
+  stampaMessaggio() {
     console.log('Prova commit');
+  }
 }
